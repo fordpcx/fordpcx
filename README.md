@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @fordpcx
-- 👀 I’m interested in NextJS and ReactJS Framework
+👋 Hi there, I’m Cleford
+
+- 👀 I’m interested in backend stuffs and frontend framework like NextJS and ReactJS
 - 🌱 I’m currently learning Flutter
 
 <!---
